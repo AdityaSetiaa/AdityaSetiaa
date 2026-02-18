@@ -1,7 +1,7 @@
 
 
 <h1>Hi 👋, I'm Aditya</h1>
-<h3>A frontend developer from India</h3>
+<h3>A full stack developer from India</h3>
 
 ## 🌐 Socials: [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adityasetia@outlook.com) 
 
